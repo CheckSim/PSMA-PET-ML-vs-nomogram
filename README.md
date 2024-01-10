@@ -15,7 +15,7 @@ This GitHub repository contains the code and resources for a project conducted i
 
 The Logistic Regression model demonstrated superior performance among the tested machine learning algorithms. Although it did not significantly outperform the previously published nomogram, the findings suggest the potential value of machine learning methods as complementary tools in the medical field. This is particularly relevant for developing explainable AI for future routine clinical applications.
 
-- [ML_vs_Nomogram.ipynb](.ML_vs_Nomogram.ipynb): Direct link to the Jupyter Notebook.
+- [ML_vs_Nomogram.ipynb](ML_vs_Nomogram.ipynb): Direct link to the Jupyter Notebook.
 
 ## Collaboration
 
@@ -29,4 +29,4 @@ Special thanks to the Nuclear Medicine department of Sant'Orsola Hospital in Bol
 
 ---
 
-© 2023 Simone Cecconi. License: [LICENSE.MD](.LICENSE.md)
+© 2023 Simone Cecconi. License: [LICENSE.MD](LICENSE.md)
